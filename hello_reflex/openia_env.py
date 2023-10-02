@@ -1,1 +1,1 @@
-API_KEY = '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'
+API_KEY = 'Key_Openia'
